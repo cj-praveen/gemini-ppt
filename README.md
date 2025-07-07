@@ -10,24 +10,12 @@ _Set your Gemini API key via an environment variable. If you don’t set it, the
 ---
 
 ## Build from Source
-
-- Requires [Bun](https://bun.sh/)
-
-- Clone the Repository
-
+- Requires [Bun JavaScript Runtime](https://bun.sh/)
+- Run `build.sh`
 ```bash
-git clone https://github.com/cj-praveen/gemini-ppt.git
-cd gemini-ppt
+chmod u+x build.sh
+./build.sh
 ```
 
-- Install Dependencies
-
-```bash
-bun install
-```
-
-- Compile the binary
-```bash
-bun build main.js --compile --outfile=builds/gemini-ppt
-```
-_(Add .exe at the end if building for Windows)_
+## License
+Free and open-source under [MIT License](LICENSE).
