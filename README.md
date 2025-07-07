@@ -11,11 +11,14 @@ _Set your Gemini API key via an environment variable. If you don’t set it, the
 
 ## Build from Source
 - Requires [Bun JavaScript Runtime](https://bun.sh/)
-- Run `build.sh`
 ```bash
-chmod u+x build.sh
+# On macOS & Linux, It's recommended to run chmod
+sudo chmod u+x build.sh
+
+# Run the file
 ./build.sh
 ```
+_Add .exe to the binary name if building for Windows._
 
 ## License
 Free and open-source under [MIT License](LICENSE).
