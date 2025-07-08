@@ -1,7 +1,7 @@
 # Gemini PPT
 A CLI tool that creates structured, editable .pptx slides using Google's Gemini AI ideal for students, educators, and professionals needing a fast start.
 
-### [Download ↗](/releases)
+### [Download ↗](https://github.com/cj-praveen/gemini-ppt/releases)
 
 https://github.com/user-attachments/assets/e04d2a39-225b-4724-a94d-0665085c3174
 
